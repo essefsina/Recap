@@ -1,0 +1,8 @@
+# Signing keys — never commit
+*.keystore
+*.jks
+
+# Build outputs
+build/
+*.apk
+__pycache__/

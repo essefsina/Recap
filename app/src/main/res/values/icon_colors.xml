@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="iconbg_forest">#FF06402E</color>
+    <color name="iconbg_ocean">#FF063B66</color>
+    <color name="iconbg_violet">#FF210457</color>
+    <color name="iconbg_sunset">#FF6E3A08</color>
+    <color name="iconbg_rose">#FF5E1F31</color>
+</resources>
